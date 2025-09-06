@@ -2,3 +2,5 @@ I am a fix file which is used to fix the bug.
 
 
 another fix message for pink mode.
+
+another fix message for pink modes.
